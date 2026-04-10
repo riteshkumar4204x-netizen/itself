@@ -1,2 +1,2 @@
 # itself
-i will share my journey to you through this
+simple calculator python code
